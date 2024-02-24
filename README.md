@@ -584,12 +584,12 @@ $(`whoami`)
 
 ### Cloning an Existing Repository ( Clone with HTTPS )
 ```
-root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/command-injection-payload-list.git
+root@fr4nzisko:~# git clone https://github.com/fr4nzisko/command-injection-payload-list.git
 ```
 
 ### Cloning an Existing Repository ( Clone with SSH )
 ```
-root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/command-injection-payload-list.git
+root@fr4nzisko:~# git clone git@github.com:fr4nzisko/command-injection-payload-list.git
 ```
 
 ##### Donate!
@@ -598,8 +598,5 @@ Support the authors:
 
 ##### Paypal:
 
-https://paypal.me/ismailtsdln
+https://www.paypal.com/paypalme/JoseFloresFuentes
 
-##### LiberaPay:
-
-<noscript><a href="https://liberapay.com/ismailtasdelen/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
